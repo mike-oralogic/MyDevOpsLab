@@ -5,7 +5,7 @@
   <artifactId>mike-oralogic</artifactId>
   <packaging>war</packaging>
   <version>0.0.8</version>
-  <name>VinayDevOpsLab</name>
+  <name>mike-oralogic</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
