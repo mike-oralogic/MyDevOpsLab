@@ -1,2 +1,2 @@
 # MyDevOpsLab
-To crate a CI/CD pipeline
+To create a CI/CD pipeline
